@@ -1,4 +1,4 @@
-package codes;
+package JavaTech;
 class A{ // can't make outer class Static
 
     int age;

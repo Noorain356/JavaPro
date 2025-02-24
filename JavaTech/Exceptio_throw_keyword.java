@@ -1,4 +1,4 @@
-package codes;
+package JavaTech;
 
 public class Exceptio_throw_keyword {
     public static void main(String[] args) {

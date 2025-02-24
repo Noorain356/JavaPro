@@ -1,4 +1,5 @@
-package codes;
+package JavaTech;
+
 class A{
     public void show() throws ClassNotFoundException{
          //try{

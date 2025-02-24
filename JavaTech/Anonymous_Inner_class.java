@@ -1,4 +1,4 @@
-package codes;
+package JavaTech;
 class A1{
     public void config(){
         System.out.println("in A config");

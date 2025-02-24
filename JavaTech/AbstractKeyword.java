@@ -1,4 +1,4 @@
-package codes; 
+package JavaTech; 
  abstract class car {
     public  abstract void drive();
     public abstract void fly();

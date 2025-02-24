@@ -1,4 +1,4 @@
-package codes;
+package JavaTech;
 class NavinException extends Exception{
  public NavinException(String string){
     super(string);

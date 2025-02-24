@@ -1,4 +1,4 @@
-package codes;
+package JavaTech;
 
 public class Exceptionhandling_trycatch {
     @SuppressWarnings("null")
