@@ -29,6 +29,10 @@ public class NumberException {
         Thread t2 = new Thread(obj4);
        
         t1.start(); 
-        t2.start(); 
+       
+        t2.start();
+        
+
+
     }
 }
