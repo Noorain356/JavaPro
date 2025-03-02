@@ -1,13 +1,13 @@
 package JavaTech;
-
-
-import java.util.HashMap;
+//import java.util.HashMap;
+import java.util.Hashtable;
 import java.util.Map;
 
 public class Map_API {
     
         public static void main(String[] args) {
-            Map<String, Integer> students = new HashMap<>();
+            Map<String, Integer> students = new Hashtable<>();
+            //Map<String, Integer> students = new HashMap<>();
             students.put("Navin", 45);
             students.put("Harsh", 65);
             students.put("Sushil", 56);
