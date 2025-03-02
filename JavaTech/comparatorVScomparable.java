@@ -27,6 +27,7 @@ public int compareTo(Student that){
 }
 
 public class comparatorVScomparable {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         Comparator<Student> com = new Comparator<Student>(){
        public int compare(Student i, Student j){

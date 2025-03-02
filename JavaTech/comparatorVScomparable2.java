@@ -20,6 +20,7 @@ class Student{
 public class comparatorVScomparable2 {
     public static void main(String[] args) {
 
+        @SuppressWarnings("unused")
         Comparator<Integer> com = new Comparator<Integer>(){
        public int compare(Integer i,Integer j){
                 if(i%10 > j%10)  
