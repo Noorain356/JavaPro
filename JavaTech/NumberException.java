@@ -32,7 +32,5 @@ public class NumberException {
        
         t2.start();
         
-
-
     }
 }

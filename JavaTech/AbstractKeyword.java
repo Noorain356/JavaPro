@@ -1,5 +1,5 @@
-package JavaTech; 
- abstract class car {
+package JavaTech;
+abstract class car {
     public  abstract void drive();
     public abstract void fly();
     public void playMusic(){
